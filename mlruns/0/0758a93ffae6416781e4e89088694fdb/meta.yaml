@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0758a93ffae6416781e4e89088694fdb/artifacts
+end_time: 1735503961738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0758a93ffae6416781e4e89088694fdb
+run_name: unruly-snake-601
+run_uuid: 0758a93ffae6416781e4e89088694fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735503961182
+status: 3
+tags: []
+user_id: sakibhussen

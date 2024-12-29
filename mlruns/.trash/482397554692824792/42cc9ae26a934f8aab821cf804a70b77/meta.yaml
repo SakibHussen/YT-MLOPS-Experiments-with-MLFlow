@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/482397554692824792/42cc9ae26a934f8aab821cf804a70b77/artifacts
+deleted_time: 1735505487284
+end_time: 1735505436839
+entry_point_name: ''
+experiment_id: '482397554692824792'
+lifecycle_stage: deleted
+run_id: 42cc9ae26a934f8aab821cf804a70b77
+run_name: capricious-pig-347
+run_uuid: 42cc9ae26a934f8aab821cf804a70b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735505436473
+status: 3
+tags: []
+user_id: sakibhussen

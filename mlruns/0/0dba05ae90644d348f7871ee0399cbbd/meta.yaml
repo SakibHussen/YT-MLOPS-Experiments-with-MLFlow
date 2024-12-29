@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0dba05ae90644d348f7871ee0399cbbd/artifacts
+end_time: 1735502836479
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0dba05ae90644d348f7871ee0399cbbd
+run_name: rare-midge-637
+run_uuid: 0dba05ae90644d348f7871ee0399cbbd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735502836451
+status: 3
+tags: []
+user_id: sakibhussen

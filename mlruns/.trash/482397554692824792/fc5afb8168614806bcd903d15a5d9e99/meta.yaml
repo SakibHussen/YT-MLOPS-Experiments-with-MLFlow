@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/482397554692824792/fc5afb8168614806bcd903d15a5d9e99/artifacts
+deleted_time: 1735505487282
+end_time: 1735505392885
+entry_point_name: ''
+experiment_id: '482397554692824792'
+lifecycle_stage: deleted
+run_id: fc5afb8168614806bcd903d15a5d9e99
+run_name: enchanting-cod-585
+run_uuid: fc5afb8168614806bcd903d15a5d9e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735505392418
+status: 3
+tags: []
+user_id: sakibhussen

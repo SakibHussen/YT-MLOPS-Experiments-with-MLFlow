@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/495231211610548247/a562b98b8fe2493c9fac33a798a714c9/artifacts
+end_time: 1735506527099
+entry_point_name: ''
+experiment_id: '495231211610548247'
+lifecycle_stage: active
+run_id: a562b98b8fe2493c9fac33a798a714c9
+run_name: exultant-lark-286
+run_uuid: a562b98b8fe2493c9fac33a798a714c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735506523078
+status: 3
+tags: []
+user_id: sakibhussen

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/e08f03c392c64fde99aebb46c52c6e7f/artifacts
+deleted_time: 1735504564397
+end_time: 1735503627466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: e08f03c392c64fde99aebb46c52c6e7f
+run_name: beautiful-conch-951
+run_uuid: e08f03c392c64fde99aebb46c52c6e7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735503626416
+status: 4
+tags: []
+user_id: sakibhussen
