@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sakibhussen/Desktop/Youtube_ML_OP_Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/663395775116261389/52d92edc9cf3402692708c7298b8deeb/artifacts
+end_time: 1735510389981
+entry_point_name: ''
+experiment_id: '663395775116261389'
+lifecycle_stage: active
+run_id: 52d92edc9cf3402692708c7298b8deeb
+run_name: resilient-deer-738
+run_uuid: 52d92edc9cf3402692708c7298b8deeb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735510389976
+status: 3
+tags: []
+user_id: sakibhussen

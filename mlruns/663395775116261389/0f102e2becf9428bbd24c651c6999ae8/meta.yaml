@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sakibhussen/Desktop/Youtube_ML_OP_Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/663395775116261389/0f102e2becf9428bbd24c651c6999ae8/artifacts
+end_time: 1735510390025
+entry_point_name: ''
+experiment_id: '663395775116261389'
+lifecycle_stage: active
+run_id: 0f102e2becf9428bbd24c651c6999ae8
+run_name: bedecked-jay-396
+run_uuid: 0f102e2becf9428bbd24c651c6999ae8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735510390020
+status: 3
+tags: []
+user_id: sakibhussen

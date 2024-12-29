@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sakibhussen/Desktop/Youtube_ML_OP_Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/663395775116261389/d2f806c5f108496a9bc31cdca65ba90e/artifacts
+end_time: 1735510390053
+entry_point_name: ''
+experiment_id: '663395775116261389'
+lifecycle_stage: active
+run_id: d2f806c5f108496a9bc31cdca65ba90e
+run_name: abrasive-koi-747
+run_uuid: d2f806c5f108496a9bc31cdca65ba90e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735510390047
+status: 3
+tags: []
+user_id: sakibhussen

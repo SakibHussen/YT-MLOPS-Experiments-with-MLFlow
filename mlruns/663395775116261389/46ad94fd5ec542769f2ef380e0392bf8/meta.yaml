@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sakibhussen/Desktop/Youtube_ML_OP_Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/663395775116261389/46ad94fd5ec542769f2ef380e0392bf8/artifacts
+end_time: 1735510390032
+entry_point_name: ''
+experiment_id: '663395775116261389'
+lifecycle_stage: active
+run_id: 46ad94fd5ec542769f2ef380e0392bf8
+run_name: silent-stag-572
+run_uuid: 46ad94fd5ec542769f2ef380e0392bf8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735510390026
+status: 3
+tags: []
+user_id: sakibhussen

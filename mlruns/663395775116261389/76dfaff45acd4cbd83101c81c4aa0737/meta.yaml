@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sakibhussen/Desktop/Youtube_ML_OP_Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/663395775116261389/76dfaff45acd4cbd83101c81c4aa0737/artifacts
+end_time: 1735510389994
+entry_point_name: ''
+experiment_id: '663395775116261389'
+lifecycle_stage: active
+run_id: 76dfaff45acd4cbd83101c81c4aa0737
+run_name: gentle-worm-346
+run_uuid: 76dfaff45acd4cbd83101c81c4aa0737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735510389989
+status: 3
+tags: []
+user_id: sakibhussen

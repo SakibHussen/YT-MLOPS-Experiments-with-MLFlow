@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sakibhussen/Desktop/Youtube_ML_OP_Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/663395775116261389/25d246e2530f45f2beacf6d17bec2436/artifacts
+end_time: 1735510390006
+entry_point_name: ''
+experiment_id: '663395775116261389'
+lifecycle_stage: active
+run_id: 25d246e2530f45f2beacf6d17bec2436
+run_name: classy-turtle-206
+run_uuid: 25d246e2530f45f2beacf6d17bec2436
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735510389994
+status: 3
+tags: []
+user_id: sakibhussen

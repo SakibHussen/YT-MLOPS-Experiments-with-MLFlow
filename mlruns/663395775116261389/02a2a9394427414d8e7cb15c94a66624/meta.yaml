@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sakibhussen/Desktop/Youtube_ML_OP_Series/YT-MLOPS-Experiments-with-MLFlow/mlruns/663395775116261389/02a2a9394427414d8e7cb15c94a66624/artifacts
+end_time: 1735510670652
+entry_point_name: ''
+experiment_id: '663395775116261389'
+lifecycle_stage: active
+run_id: 02a2a9394427414d8e7cb15c94a66624
+run_name: salty-crab-598
+run_uuid: 02a2a9394427414d8e7cb15c94a66624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735510665822
+status: 3
+tags: []
+user_id: sakibhussen
